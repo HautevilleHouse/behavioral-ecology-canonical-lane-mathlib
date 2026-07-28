@@ -1,0 +1,15 @@
+import BehavioralEcologyCanonicalLaneLean.BehavioralEcologyAdmissibleClass
+import BehavioralEcologyCanonicalLaneLean.BehavioralEcologyBridge
+import BehavioralEcologyCanonicalLaneLean.BehavioralEcologyGate
+import BehavioralEcologyCanonicalLaneLean.BehavioralEcologyFinalTheorem
+import BehavioralEcologyCanonicalLaneLean.ForagingOptimalityPackage
+import BehavioralEcologyCanonicalLaneLean.GameTheoryStrategy
+import BehavioralEcologyCanonicalLaneLean.PopulationDynamics
+
+namespace HautevilleHouse
+namespace BehavioralEcologyCanonicalLaneLean
+
+-- Root module for Behavioral Ecology Canonical Lane
+
+end BehavioralEcologyCanonicalLaneLean
+end HautevilleHouse
